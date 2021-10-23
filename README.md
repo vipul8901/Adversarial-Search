@@ -1,11 +1,11 @@
 # Adversarial-Search
 
-In this project we are creating an agent to intelligently play the **2048-puzzle game**, using more advanced techniques to probe the search space than the simple methods used in the previous assignment. 
+In this project we are creating an agent to intelligently play the **2048-puzzle game**, using more advanced techniques to probe the search space.
 
 Try playing the game here: [gabrielecirulli.github.io/2048](https://gabrielecirulli.github.io/2048) to get a sense of how the game works. 
 The project implements an adversarial search algorithm that plays the game intelligently.
 
-![2048.png](img/2048.png)
+
 
 ## Code structure
 The skeleton code includes the following files. Note that from the '.py' files, only PlayerAI.py file has been written by author; the rest of the files were provided as part of the assignment and could not be modified. The exception was the time.clock() vs time.process_time() as the former had been deprecated in current version of Python. 
